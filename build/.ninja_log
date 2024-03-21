@@ -1,0 +1,25 @@
+# ninja log v5
+0	40	1710424059373641597	CMakeFiles/scel_format.dir/main.cpp.o.ddi	ada52702983b90a0
+41	49	1710424059383641740	CMakeFiles/scel_format.dir/CXX.dd	58edcf24816c154d
+41	49	1710424059383641740	/home/cvrain/CLionProjects/scel_format/build/CMakeFiles/scel_format.dir/CXXModules.json	58edcf24816c154d
+41	49	1710424059383641740	CMakeFiles/scel_format.dir/main.cpp.o.modmap	58edcf24816c154d
+49	718	1710424060046984542	CMakeFiles/scel_format.dir/main.cpp.o	802003a3ae53b4ef
+719	781	1710424060113652160	scel_format	f034cbc4207a3ce8
+1	55	1710424098634199843	CMakeFiles/scel_format.dir/main.cpp.o.ddi	ada52702983b90a0
+55	67	1710424098650866746	CMakeFiles/scel_format.dir/CXX.dd	58edcf24816c154d
+55	67	1710424098650866746	/home/cvrain/CLionProjects/scel_format/build/CMakeFiles/scel_format.dir/CXXModules.json	58edcf24816c154d
+55	67	1710424098650866746	CMakeFiles/scel_format.dir/main.cpp.o.modmap	58edcf24816c154d
+67	839	1710424099417544271	CMakeFiles/scel_format.dir/main.cpp.o	802003a3ae53b4ef
+839	892	1710424099470878361	scel_format	f034cbc4207a3ce8
+2	43	1710424221799259049	CMakeFiles/scel_format.dir/main.cpp.o.ddi	ada52702983b90a0
+43	52	1710424221812592567	CMakeFiles/scel_format.dir/CXX.dd	58edcf24816c154d
+43	52	1710424221812592567	/home/cvrain/CLionProjects/scel_format/build/CMakeFiles/scel_format.dir/CXXModules.json	58edcf24816c154d
+43	52	1710424221812592567	CMakeFiles/scel_format.dir/main.cpp.o.modmap	58edcf24816c154d
+53	722	1710424222475935101	CMakeFiles/scel_format.dir/main.cpp.o	802003a3ae53b4ef
+722	778	1710424222535935934	scel_format	f034cbc4207a3ce8
+2	57	1710424251893008901	CMakeFiles/scel_format.dir/main.cpp.o.ddi	ada52702983b90a0
+57	73	1710424251913009177	CMakeFiles/scel_format.dir/CXX.dd	58edcf24816c154d
+57	73	1710424251913009177	/home/cvrain/CLionProjects/scel_format/build/CMakeFiles/scel_format.dir/CXXModules.json	58edcf24816c154d
+57	73	1710424251913009177	CMakeFiles/scel_format.dir/main.cpp.o.modmap	58edcf24816c154d
+73	957	1710424252793021330	CMakeFiles/scel_format.dir/main.cpp.o	802003a3ae53b4ef
+958	1018	1710424252856355538	scel_format	f034cbc4207a3ce8
