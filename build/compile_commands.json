@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/home/cvrain/CLionProjects/scel_format/build",
+  "command": "/usr/bin/clang++ -g -std=gnu++20 @CMakeFiles/scel_format.dir/main.cpp.o.modmap -o CMakeFiles/scel_format.dir/main.cpp.o -c /home/cvrain/CLionProjects/scel_format/main.cpp",
+  "file": "/home/cvrain/CLionProjects/scel_format/main.cpp",
+  "output": "CMakeFiles/scel_format.dir/main.cpp.o"
+}
+]

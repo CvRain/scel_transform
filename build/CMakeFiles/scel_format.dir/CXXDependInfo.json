@@ -1,0 +1,18 @@
+{
+	"bmi-installation" : null,
+	"compiler-frontend-variant" : "GNU",
+	"compiler-id" : "Clang",
+	"compiler-simulate-id" : "",
+	"config" : "Debug",
+	"cxx-modules" : {},
+	"dir-cur-bld" : "/home/cvrain/CLionProjects/scel_format/build",
+	"dir-cur-src" : "/home/cvrain/CLionProjects/scel_format",
+	"dir-top-bld" : "/home/cvrain/CLionProjects/scel_format/build",
+	"dir-top-src" : "/home/cvrain/CLionProjects/scel_format",
+	"exports" : [],
+	"forward-modules-from-target-dirs" : [],
+	"include-dirs" : [],
+	"language" : "CXX",
+	"linked-target-dirs" : [],
+	"module-dir" : "/home/cvrain/CLionProjects/scel_format/build/CMakeFiles/scel_format.dir"
+}

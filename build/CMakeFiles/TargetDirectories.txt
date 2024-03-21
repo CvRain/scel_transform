@@ -1,0 +1,3 @@
+/home/cvrain/CLionProjects/scel_format/build/CMakeFiles/scel_format.dir
+/home/cvrain/CLionProjects/scel_format/build/CMakeFiles/edit_cache.dir
+/home/cvrain/CLionProjects/scel_format/build/CMakeFiles/rebuild_cache.dir
