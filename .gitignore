@@ -336,3 +336,6 @@ dkms.conf
 *.out
 *.app
 
+!/.gitignore
+!/.vscode/
+!/build/
